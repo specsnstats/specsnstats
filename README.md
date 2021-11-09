@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Jonathan Newman
-- 👀 I’m interested in development projects to help expand and empower gaming communities
+- 👀 I’m interested in development projects to help expand and empower gaming communities\
+-         Portfolio: https://specsnstats.github.io/portfolio/
 - 🌱 I’m currently learning back-end programming through my bootcamp
 - 💞️ I’m looking to collaborate on nothing really right now
 - 📫 How to reach me: SpecsNStats#0365 on Discord, Email: specsnstats@gmail.com
