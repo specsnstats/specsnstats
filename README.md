@@ -1,11 +1,11 @@
 # Hello! I'm Jonathan Newman - [Aka SpecsNStats][website] 👋 
 
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://jonathan-newman-portfolio.herokuapp.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/SpecsNStats?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SpecsNStats?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fspecsnstats&screen_name=specsnstats)
 
 ## I'm a Husband, Father, Developer, and Content Creator!
 
-- 🔭 I just finished my portfolio: [Jonathan Newman Portfolio][website]!
+- 🔭 Finished my portfolio: [Jonathan Newman Portfolio][website]!
 - 🌱 I’m currently expanding my knowledge of Javascript and Typescript, and how to make state-of-the-art responsive websites!
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Provide my family with a financially stable life
@@ -14,6 +14,7 @@
 <br />
 
 ## Languages and Tools:
+<br/>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -38,12 +39,28 @@
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<br/>
+
 ## Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br/>
+
+---
+
+<!-- YT Videos -->
+
+
+
+---
+
+ <img align="left" alt="Jonathan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=specsnstats&show_icons=true&hide_border=true" />
+
+
 </details>
 
 [website]: https://jonathan-newman-portfolio.herokuapp.com
