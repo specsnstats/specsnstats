@@ -1,6 +1,6 @@
 # Hello! I'm Jonathan Newman - [Aka SpecsNStats][website] 👋 
 
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://jonathannewmanportfolio.com)
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://jonathan-newman-portfolio.herokuapp.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SpecsNStats?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Husband, Father, Developer, and Content Creator!
@@ -46,7 +46,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 </details>
 
-[website]: https://jonathannewmanportfolio.com
+[website]: https://jonathan-newman-portfolio.herokuapp.com
 [twitter]: https://www.twitter.com/specsnstats
 [youtube]: https://www.youtube.com/channel/UC4K2ox10F6Gjm58a1KfFS7g
 [linkedin]: https://www.linkedin.com/in/jonathan-brad-newman-397ab4102/
