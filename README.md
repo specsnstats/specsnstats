@@ -57,6 +57,8 @@
 ---
 
  <img align="left" alt="Jonathan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=specsnstats&show_icons=true&hide_border=true" />
+ 
+ ![Codewars](https://github.r2v.ch/codewars?user=specsnstats)
 
 
 </details>
